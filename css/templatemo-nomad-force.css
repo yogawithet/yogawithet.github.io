@@ -108,6 +108,7 @@ p {
 }
 
 .text-secondary-white-color {
+  font-size: 14px;
   color: var(--text-secondary-white-color);
 }
 
